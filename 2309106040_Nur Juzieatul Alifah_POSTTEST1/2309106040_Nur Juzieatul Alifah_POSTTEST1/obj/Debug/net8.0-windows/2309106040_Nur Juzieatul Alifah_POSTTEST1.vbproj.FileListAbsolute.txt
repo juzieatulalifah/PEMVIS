@@ -1,0 +1,16 @@
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\bin\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.exe
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\bin\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.deps.json
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\bin\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.runtimeconfig.json
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\bin\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.dll
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\bin\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.pdb
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\_2309106040_Nur_Juzieatul_Alifah_POSTTEST1.Form1.resources
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.vbproj.GenerateResource.cache
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.AssemblyInfoInputs.cache
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.AssemblyInfo.vb
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.vbproj.CoreCompileInputs.cache
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.dll
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\refint\2309106040_Nur Juzieatul Alifah_POSTTEST1.dll
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.pdb
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\2309106040_Nur Juzieatul Alifah_POSTTEST1.genruntimeconfig.cache
+D:\semester4\Pemvis\2309106040_Nur Juzieatul Alifah_POSTTEST1\2309106040_Nur Juzieatul Alifah_POSTTEST1\obj\Debug\net8.0-windows\ref\2309106040_Nur Juzieatul Alifah_POSTTEST1.dll
